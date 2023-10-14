@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 41 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-6276.35,-761.279)">
+        <g transform="matrix(1,0,0,1,5321.22,-615.796)">
+            <g id="Lightning-Bolt" serif:id="Lightning Bolt" transform="matrix(3.78472,0,0,3.78472,637.386,9.54523)">
+                <g id="Lightning-Bolt1" serif:id="Lightning Bolt" transform="matrix(0.257195,0,0,0.192046,-136.58,322.415)">
+                    <path d="M897.227,202.629L868.067,236.583L889.238,264.545L857.459,291.309L898.825,268.539L878.453,236.583L897.227,202.629Z" style="fill:rgb(235,217,112);"/>
+                </g>
+                <g id="Shadow" transform="matrix(0.257195,0,0,0.192046,-136.58,322.415)">
+                    <path d="M897.227,202.629L872.847,237.543L892.585,266.466L857.459,291.309L898.825,268.539L878.453,236.583L897.227,202.629Z" style="fill:rgb(197,178,66);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

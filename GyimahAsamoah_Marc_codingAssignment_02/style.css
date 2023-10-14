@@ -1,0 +1,151 @@
+body {
+
+    background-color: #292929;
+    color: white;
+}
+
+h1, h2 {
+
+    text-transform: uppercase;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+#title-section {
+
+    font-family: Tahoma;
+    font-size: 16pt;
+    letter-spacing: 6px;
+    font-weight: bold;
+    
+
+}
+
+#headshot {
+
+    max-width: 40%;
+    height: auto;
+}
+
+.header {
+
+    font-family: Trebuchet MS;
+    font-size: 15pt;
+    letter-spacing: 4px;
+}
+
+.generaltxt {
+
+    font-family: Calibri;
+    font-size: 10pt;
+    letter-spacing: 2.25px;
+    text-align: center;
+    line-height: 20px;
+
+
+}
+
+.courier {
+
+    font-family: Courier New;
+    opacity: 70%;
+}
+
+.icon {
+
+    max-width: 12%;
+    height: auto;
+    margin-left: 10px;
+    margin-bottom: 2px;
+
+}
+
+#main {
+
+    display: flex;
+    height: fit-content;
+    flex-direction: row;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+/*adding hover to each section*/
+
+
+#contact-section {
+
+    transition: transform .2s;
+    padding: 0 40px 0;
+}
+
+#contact-section:hover {
+
+    transform: scale(1.5);
+
+}
+
+#education-section {
+
+    transition: transform .2s;
+}
+
+#education-section:hover {
+
+    transform: scale(1.5);
+    padding: 0 30px 0;
+
+}
+
+
+#work-section {
+
+    transition: transform .2s;
+    padding: 0 40px 0;
+}
+
+#work-section:hover {
+
+    transform: scale(1.5);
+
+}
+
+#skills-section {
+
+    transition: transform .2s;
+    padding: 0 40px 0;
+}
+
+#skills-section:hover {
+
+    transform: scale(1.5);
+
+}
+
+#interests-section {
+
+    transition: transform .2s;
+    padding: 0 40px 0;
+}
+
+#interests-section:hover {
+
+    transform: scale(1.5);
+
+}
+.icon-flex {
+
+    display: flex;
+    height:fit-content;
+    flex-direction: row;
+    margin: 0 125px;
+    
+}
+
+html {
+
+    scroll-behavior: smooth;
+}
